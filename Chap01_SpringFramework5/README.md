@@ -11,5 +11,4 @@
 ![ ](https://github.com/dev-david-chen/Pro-Spring-Boot-2-Apress-Felipe-Gutierrez-2E/blob/main/Chap01_SpringFramework5/img/index.png)
 
 ### 2. http://localhost:8080/toDos
-![ ](https://github.com/dev-david-chen/Pro-Spring-Boot-2-Apress-Felipe-Gutierrez-2E/blob/main/Chap01_SpringFramework5/img/
-todos.png)
+![ ](https://github.com/dev-david-chen/Pro-Spring-Boot-2-Apress-Felipe-Gutierrez-2E/blob/main/Chap01_SpringFramework5/img/todos.png)
