@@ -1,8 +1,7 @@
 # Pro-Spring-Boot-2-Apress-Felipe-Gutierrez-2E
 Pro Spring Boot 2/Second Edition/Felipe Gutierrez
 
-![Cover image](./img/ProSpringBoot2_cover.jpg)
-<img src="" alt="Pro Spring Boot2 Cover Page"/>
+<img src="./img/ProSpringBoot2_cover.jpg" alt="Pro Spring Boot2 Cover Page" style="width:25%;" />
 
 ## 2nd Edition, Apress  
 ### Felipe Gutierrez
