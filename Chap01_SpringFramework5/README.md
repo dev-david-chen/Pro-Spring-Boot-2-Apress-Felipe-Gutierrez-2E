@@ -8,7 +8,7 @@
 
 ## Screen Shots
 ### 1. http://localhost:8080/
-![ ](https://github.com/dev-david-chen/Pro-Spring-Boot-2-Apress-Felipe-Gutierrez-2E/blob/main/Chap01_SpringFramework5/img/index.png)
+![ ](./img/index.png)
 
 ### 2. http://localhost:8080/toDos
-![ ](https://github.com/dev-david-chen/Pro-Spring-Boot-2-Apress-Felipe-Gutierrez-2E/blob/main/Chap01_SpringFramework5/img/todos.png)
+![ ](./img/todos.png)
