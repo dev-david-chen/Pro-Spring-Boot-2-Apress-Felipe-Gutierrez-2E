@@ -11,5 +11,6 @@ Pro Spring Boot 2/Second Edition/Felipe Gutierrez
 - [Chapter 01, Spring Framework 5](../main/Chap01_SpringFramework5)
 - [Chapter 02, Introduction to Spring Boot](../main/Chap02_IntroductionToSpringBoot)
 - [Chapter 03, Spring Boot Internals and Features](../main/Chap03_SpringBootInternalsandFeatures)
+- [Chapter 04, Web Applications with Spring Boot](../main/Chap04_WebApplicationswithSpringBoot)
 
 
