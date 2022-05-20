@@ -5,7 +5,7 @@
 - client subfolder: Spring Boot Web Client
 
 
-## RESTFul API
+## RESTful API
 ### 1. http://localhost:8080/api/todo
 <img src="./img/httpapi.png" style="width:50%;"/>
 
@@ -32,6 +32,6 @@
 
 <img src="./img/restapi-error.png" style="width:50%;"/>
 
-## RESTFul API-Client
+## RESTful API-Client
 ### 
 <img src="./img/restapi-client.png" style="width:100%;" />
