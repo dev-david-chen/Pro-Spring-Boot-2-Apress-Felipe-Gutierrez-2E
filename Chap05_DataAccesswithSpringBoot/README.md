@@ -8,14 +8,8 @@
 ### 1. http://localhost:8080/api/todo
 <img src="./Embedded%20H2%20with%20JPA/img/jpa-hal.png" style="width:50%;"/>
 
-### 2. 
+### 2. [Embedded H2 databse with JPA](./Embedded%20H2%20with%20JPA)
 
-[Embedded H2 databse with JPA](./Embedded%20H2%20with%20JPA)
+### 3. [Embedded MongoDB databse with JPA](./Embedded%20MongoDB)
 
-### 3. 
-
-[Embedded MongoDB databse with JPA](./Embedded%20MongoDB)
-
-### 4. 
-
-[Embedded Redis databse with JPA](./Embedded%20Redis)
+### 4. [Embedded Redis databse with JPA](./Embedded%20Redis)
