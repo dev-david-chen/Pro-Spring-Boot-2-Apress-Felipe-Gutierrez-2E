@@ -10,12 +10,12 @@
 
 ### 2. 
 
-[Embedded H2 databse with JPA](./Embedded H2 with JPA)
+[Embedded H2 databse with JPA](./Embedded%20H2%20with%20JPA)
 
 ### 3. 
 
-[Embedded MongoDB databse with JPA](./Embedded MongoDB)
+[Embedded MongoDB databse with JPA](./Embedded%20MongoDB)
 
 ### 4. 
 
-[Embedded Redis databse with JPA](./Embedded Redis)
+[Embedded Redis databse with JPA](./Embedded%20Redis)
