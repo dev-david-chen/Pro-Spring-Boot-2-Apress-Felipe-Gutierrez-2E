@@ -13,3 +13,4 @@ Pro Spring Boot 2/Second Edition/Felipe Gutierrez
 - [Chapter 03, Spring Boot Internals and Features](./Chap03_SpringBootInternalsandFeatures)
 - [Chapter 04, Web Applications with Spring Boot](./Chap04_WebApplicationswithSpringBoot)
 - [Chapter 05, Data Access with Spring Boot](./Chap05_DataAccesswithSpringBoot)
+- [Chapter 06, WebFlux and Reactive Data with Spring Boot](./Chap06_WebFluxandReactiveDatawithSpringBoot)
